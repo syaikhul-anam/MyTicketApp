@@ -11,5 +11,8 @@
     <string name="explore">EXPLORE NOW</string>
     <string name="view_ticket">VIEW TICKET</string>
     <string name="my_dashboard">MY DASHBOARD</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="refund_now">REFUND NOW</string>
 
 </resources>
